@@ -1,4 +1,4 @@
-local Settings = {
+local memSpoofer = {
     range1 = 500,
     range2 = 800,
     
