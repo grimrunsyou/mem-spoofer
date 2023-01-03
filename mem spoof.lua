@@ -1,6 +1,6 @@
 local memSpoofer = {
-    range1 = 500,
-    range2 = 800,
+    range1 = 476,
+    range2 = 832,
     
 }
 
